@@ -1,0 +1,26 @@
+body{
+    background: radial-gradient( circle at 78%,rgb(27, 80, 179),black,rebeccapurple);
+}
+.title{
+    color: goldenrod;
+    text-align: center;
+}
+/* takes away the bullets for the navagation bar */
+ul{
+    list-style-type: none;;
+}
+/* takes the list aand puts in inline to the page also adds a padding of 100px */
+li{
+    display: inline;
+    padding: 100px;
+}
+.navB{
+    padding: 20px;
+    text-align: center;
+    font-size: 200%;
+}
+a{
+    font-weight: bold;
+    font-style: italic;
+    color:goldenrod;
+}
